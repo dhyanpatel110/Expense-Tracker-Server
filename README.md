@@ -17,7 +17,7 @@
   | /api/transaction |   GET    |  get all transaction   |
   | /api/transaction |   DELETE    |  delete transaction by id   | "id" |
 
-  - LABELS API
+- LABELS API
 
   |      HTTP Method      | Endpoint |       Usage        |       Body        |
   | :-------------------: | :------: | :----------------: | :---------------: |
